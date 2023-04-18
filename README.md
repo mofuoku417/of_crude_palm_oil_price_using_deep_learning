@@ -1,1 +1,1 @@
-This investigation seeks to identify an effective deep-learning algorithm among the chosen algorithms based on the models’ performances for the supplied data set the most appropriate deep-learning algorithms suited for solving the crude palm oil forecasting problem. Therefore, we proposed the seasonal ARIMA (SARIMA), multilayer perceptron (MLP), long-short term memory (LSTM), and recurrent neural network (RNN) models to forecast the CPO prices.
+Crude_palm_oil_price_prediction
